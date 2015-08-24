@@ -1,0 +1,16 @@
+{
+  "name": "geosense-geosense-facts",
+  "version": "0.0.1",
+  "author": "Jan Škoda, Geosense",
+  "summary": "Facter custom facts used in Geosense",
+  "license": "GNU GPL v2",
+  "source": "https://github.com/geosense/puppet-geosense-facts",
+  "project_page": "https://github.com/geosense/puppet-geosense-facts",
+  "issues_url": "https://github.com/geosense/puppet-geosense-facts/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ]
+}
